@@ -40,7 +40,7 @@ Integrations
 10. Scaffolding the Container
 6min
 
-## Section 2:The Basics of Module Federation
+## Section 2: The Basics of Module Federation
 
 See [README.md](./1100/README.md)
 
